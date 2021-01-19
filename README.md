@@ -1,3 +1,15 @@
+# Firebase---Python-Flask---ReactJS-Application
+Basic Interconnection of all the Three.Here, Python Flask will Retrieve the Value from the Firebase and Pass it to the ReactJS . Here ReactJS will act as a Front-End whereas Python Flask will act as a Processing Back-End
+To Run the Application;
+Firstly to Run the Python Flask Application, User must enter into the Command Prompt directing to the Environment Variable Location.Have to Enter the Command called "yarn start-api",For my Program , I have placed the Project Folder in D: Drive.In Command Prompt.To Run the Application.Follow these Steps: 1) d: 2) cd Flask-React 3)cd app 4)cd api 5)yarn start-api
+and then open the another command prompt directing to the Javascipt location to Run the ReactJS Application.Follow these Steps: 1) d: 2) cd Flask-React 3)cd app 4)yarn start
+
+Finally ,Retrieved Value will be displayed in the ReactJS
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
